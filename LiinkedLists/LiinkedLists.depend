@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1746088312 source:c:\users\dbmic\onedrive\escritorio\linkedlists\liinkedlists\main.c
+	<stdio.h>
+	"linkedLists.h"
+
+1746086905 c:\users\dbmic\onedrive\escritorio\linkedlists\liinkedlists\linkedlists.h
+
+1746085029 source:c:\users\dbmic\onedrive\escritorio\linkedlists\liinkedlists\linkedlist.c
+	"linkedLists.h"
+	<stdlib.h>
+	<stdio.h>
+
