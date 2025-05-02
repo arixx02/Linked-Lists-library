@@ -10,3 +10,14 @@
 	<stdlib.h>
 	<stdio.h>
 
+1746088312 source:c:\users\dbmic\onedrive\escritorio\linkedlists\linkedlists\main.c
+	<stdio.h>
+	"linkedLists.h"
+
+1746086905 c:\users\dbmic\onedrive\escritorio\linkedlists\linkedlists\linkedlists.h
+
+1746144894 source:c:\users\dbmic\onedrive\escritorio\linkedlists\linkedlists\linkedlists.c
+	"linkedLists.h"
+	<stdlib.h>
+	<stdio.h>
+
